@@ -13,6 +13,7 @@
   - [2018](#2018)
   - [2017](#2017)
 - [🛡Defense](#defense)
+  - [2024](#2024-1)
   - [2023](#2023-1)
   - [2022](#2022-1)
   - [2021](#2021-1)
@@ -261,10 +262,18 @@ If you want to get a quick look at the recently updated papers in the repository
 
 # 🛡Defense
 
+## 2024
+[💨 Back to Top](#table-of-contents)
+
++ **Self-Guided Robust Graph Structure Refinement**, *[📝WWW](https://arxiv.org/abs/2402.11837)*, *[:octocat:Code](https://github.com/yeonjun-in/torch-SG-GSR)*
+
+
+
 ## 2023
 [💨 Back to Top](#table-of-contents)
 
 + **Adversarial Training for Graph Neural Networks: Pitfalls, Solutions, and New Directions**, *[📝NeurIPS](https://openreview.net/forum?id=GPtroppvUM)*, *[:octocat:Code](https://www.cs.cit.tum.de/daml/adversarial-training/)*
++ **Similarity Preserving Adversarial Graph Contrastive Learning**, *[📝KDD](https://arxiv.org/abs/2306.13854), *[:octocat:Code](https://github.com/yeonjun-in/torch-SP-AGCL)*
 + **ASGNN: Graph Neural Networks with Adaptive Structure**, *[📝ICLR OpenReview](https://arxiv.org/abs/2210.01002)*
 + **Empowering Graph Representation Learning with Test-Time Graph Transformation**, *[📝ICLR](https://arxiv.org/abs/2210.03561)*, *[:octocat:Code](https://github.com/ChandlerBang/GTrans)*
 + **Robust Training of Graph Neural Networks via Noise Governance**, *[📝WSDM](https://arxiv.org/abs/2211.06614)*, *[:octocat:Code](https://github.com/GhostQ99/RobustTrainingGNN)*
